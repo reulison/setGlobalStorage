@@ -1,0 +1,27 @@
+{
+    "name": "setGlobalStorage",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Erro: nenhum teste especificado\" && exit 1",
+      "build": "npx webpack"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ilkkapeltola/setGlobalStorage.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/reulison/setGlobalStorage/issues"
+    },
+    "homepage": "https://github.com/reulison/setGlobalStorage#readme",
+    "devDependencies": {
+      "ts-loader": "^9.2.7",
+      "typescript": "^4.6.2",
+      "webpack": "^5.70.0",
+      "webpack-cli": "^4.10.0"
+    }
+  }
